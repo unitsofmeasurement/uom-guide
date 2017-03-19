@@ -1,4 +1,4 @@
-# Defining Methods
+# Different JVM Languages
 
 Methods allow you to smoothly display code examples in different JVM languages.
 
