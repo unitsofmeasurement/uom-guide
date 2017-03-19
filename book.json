@@ -4,8 +4,8 @@
         "theme-api": {
             "languages": [
                 {
-                    "lang": "js",
-                    "name": "JavaScript",
+                    "lang": "java",
+                    "name": "Java",
                     "default": true
                 },
                 {
