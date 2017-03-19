@@ -1,6 +1,6 @@
 # Defining Methods
 
-Methods allow you to smoothly display code examples in different languages.
+Methods allow you to smoothly display code examples in different JVM languages.
 
 {% method %}
 ## My first method
