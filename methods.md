@@ -10,8 +10,8 @@ My first method exposes how to print a message in Java and Go.
 {% sample lang="java" %}
 Here is how to print a message to `stdout` using Java.
 
-```js
-console.log('My first method');
+```java
+System.out.println("My first method");
 ```
 
 {% sample lang="go" %}
