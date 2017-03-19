@@ -7,8 +7,8 @@ Methods allow you to smoothly display code examples in different languages.
 
 My first method exposes how to print a message in JavaScript and Go.
 
-{% sample lang="js" %}
-Here is how to print a message to `stdout` using JavaScript.
+{% sample lang="java" %}
+Here is how to print a message to `stdout` using Java.
 
 ```js
 console.log('My first method');
