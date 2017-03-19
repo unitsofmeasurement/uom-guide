@@ -6,5 +6,5 @@
 
 ## Advanced
 
-* [Different JVM Languages](methods.md)
+* [Different JVM Languages](advanced.md)
 
