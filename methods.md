@@ -5,7 +5,7 @@ Methods allow you to smoothly display code examples in different languages.
 {% method %}
 ## My first method
 
-My first method exposes how to print a message in JavaScript and Go.
+My first method exposes how to print a message in Java and Go.
 
 {% sample lang="java" %}
 Here is how to print a message to `stdout` using Java.
