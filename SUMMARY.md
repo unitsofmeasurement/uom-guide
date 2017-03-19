@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 
-## Methods
+## Advanced
 
-* [Defining Methods](methods.md)
+* [Different JVM Languages](methods.md)
 
