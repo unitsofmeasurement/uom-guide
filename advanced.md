@@ -8,14 +8,14 @@ Methods allow you to smoothly display code examples in different JVM languages.
 My first method exposes how to print a message in Java and Groovy.
 
 {% sample lang="java" %}
-Here is how to print a message to `stdout` using Java.
+Here is how to print a message to `stdout` with Java.
 
 ```java
 System.out.println("My first method");
 ```
 
 {% sample lang="groovy" %}
-Here is how to print a message to `stdout` using Groovy.
+Here is how to print a message to `stdout` with Groovy.
 
 ```groovy
 fmt.Println("My first method")
