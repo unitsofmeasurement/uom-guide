@@ -14,10 +14,10 @@ Here is how to print a message to `stdout` with Java.
 System.out.println("My first method");
 ```
 
-{% sample lang="groovy" %}
-Here is how to print a message to `stdout` with Groovy.
+{% sample lang="kotlin" %}
+Here is how to print a message to `stdout` with Kotlin.
 
-```groovy
+```kotlin
 fmt.Println("My first method")
 ```
 

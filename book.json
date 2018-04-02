@@ -9,8 +9,8 @@
                     "default": true
                 },
                 {
-                    "lang": "go",
-                    "name": "Go"
+                    "lang": "kotlin",
+                    "name": "Kotlin"
                 }
             ]
         }
