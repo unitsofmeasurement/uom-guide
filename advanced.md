@@ -18,7 +18,7 @@ System.out.println("My first method");
 Here is how to print a message to `stdout` with Kotlin.
 
 ```kotlin
-fmt.Println("My first method")
+println("My first method")
 ```
 
 {% common %}
