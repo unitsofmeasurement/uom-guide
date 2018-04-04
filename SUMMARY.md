@@ -6,10 +6,10 @@
 
 ## Formatting and Parsing
 
-* [Formatting](formatting.md)
+* [Formatting Units](formatting-units.md)
+* [Formatting Quantities](formatting.md)
 
 ## Advanced
 
 * [Different JVM Languages](advanced.md)
-
 
