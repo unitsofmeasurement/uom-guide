@@ -6,17 +6,17 @@ In this chapter, we'll explain how to set up a simple Maven project and create y
 
 In order to be able to use Indriya, you first have to set up your Maven project correctly. Assuming you have a working POM file, all you should need to do is to add the following dependency to your project:
 
-```xml
+```markup
     <dependency>
       <groupId>tech.units</groupId>
       <artifactId>indriya</artifactId>
-      <version>2.0-EDR</version>
+      <version>2.0.4</version>
     </dependency>
 ```
 
 ## Your First Quantity
 
-Next, we'll create a Java class that will create your first quantity, the speed of light (*c*). Let's start by creating a new class in a package of your choice. In that class, import the following types in order to create a new speed quantity:
+Next, we'll create a Java class that will create your first quantity, the speed of light \(_c_\). Let's start by creating a new class in a package of your choice. In that class, import the following types in order to create a new speed quantity:
 
 ```java
 import javax.measure.Quantity;
@@ -37,8 +37,9 @@ In order to keep things simple, we'll create the quantity in the class's `main` 
 
 Compile the class, and run it as a stand-alone Java application. The result should be like this:
 
-```
+```text
 The speed of light: 1079252849 km/h
 ```
 
 That's it: you've just included Indriya as a dependency to a project, and created and printed out your first quantity!
+
