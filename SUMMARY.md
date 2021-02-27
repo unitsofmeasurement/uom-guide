@@ -17,5 +17,5 @@
 
 ## Advanced
 
-* [Different JVM Languages](advanced/advanced.md)
+* [Different JVM Languages](advanced/jvm-lang.md)
 
